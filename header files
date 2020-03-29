@@ -1,0 +1,6 @@
+#include<stdio.h>           //standard input and output
+#include<pthread.h>        //multithreading purpose    //all header files to be required
+#include<stdlib.h>        //general purpose standard library 
+#include<unistd.h>  //standard symbolic constraints
+#include <time.h>   //time and datefunction
+#include <string.h> //string manipulation
